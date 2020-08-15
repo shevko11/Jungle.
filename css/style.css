@@ -1,0 +1,282 @@
+@font-face {
+    font-family:Roboto-Regular; 
+    src: url(../Fonts/Roboto-Regular.ttf)
+   }
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.product{
+	font-size:60px;
+	color: #0a1863;
+	padding-left: 130px;
+	padding-top: 35px;
+}
+header{
+	background-color: #8bc34a;
+	width: 100%;
+	height: 300px;
+	display: flex;
+}
+.about{
+	font-size: 25px;
+	color: #0a1863;
+	padding-left: 140px;
+	padding-top: 30px;
+}
+.detalied{
+	font-size: 25px;
+	color: #0a1863;
+	padding-left: 140px;
+	padding-top: 15px;
+}
+.plant{
+	background-image:url(../img/img1.jpg); 
+	width: 700px;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 400px;
+	background-size: cover;
+	}
+
+
+.tell{
+     font-size: 25px;
+	 color: #0a1863;
+	 padding-left: 140px;
+	 padding-top: 15px;
+    }
+
+ .container2{
+ 	height: 300px;
+ 	color: #56ff00;
+ }
+.about-text{
+	font-size:40px;
+	color: #009602;
+	padding-top: 50px;
+	padding-left: 110px;
+}
+.lorem{
+	font-size: 25px;
+	color: #009602;
+	padding-left: 110px;
+	padding-top: 15px;
+}
+.lorey{
+	font-size: 25px;
+	color: #009602;
+	padding-left: 110px;
+	padding-top: 17px;
+}
+.plane{
+	background-image:url(../img/img2.jpg); 
+	width: 500px;
+	height: 200px;
+	margin-top: -120px;
+	margin-left: 1300px;
+	background-size: cover;
+}
+.container{
+	background-color: #009602;
+	padding-top: 40px;
+	width: 100%;
+	height: 500px;
+	
+}
+.pluses{
+	font-size: 35px;
+	color: #8bc34a;
+	padding-left: 530px;
+}
+.lorem-texx{
+	font-size: 25px;
+	color: #8bc34a;
+	padding-top: 10px;
+
+}
+.lorem-texf{
+	font-size: 25px;
+	color:#8bc34a;
+	padding-top: 20px;
+	
+
+}
+.lorem-texg{
+	font-size: 25px;
+	color: #8bc34a;
+	padding-top: 30px;
+	
+}
+.lorem-texh{
+	font-size: 25px;
+	color: #8bc34a;
+	padding-top: 40px;
+	
+}
+
+.scrinshots{
+	font-size: 40px;
+	color:#009602;
+	padding-top: 50px;
+	padding-left: 800px;
+}
+.image1{
+	background-image: url(../img/img3.jpg);
+	width: 400px;
+	height: 300px;
+	background-size: cover;
+	padding-top: 60px;
+}
+.text-1{
+	font-size: 30px;
+	color:#009602;
+	padding-left: 450px;
+	padding-top: 1px;
+}
+.text-2{
+	font-size: 20px;
+	color:#009602;
+	padding-left: 450px;
+	padding-top: 5px;
+}
+ 
+.text-3{
+	font-size: 30px;
+	color:#009602;
+	padding-left: 450px;
+	padding-top: 70px;
+}
+.text-4{
+	font-size: 20px;
+	color:#009602;
+	padding-left: 450px;
+	padding-top: 4px;
+}
+.image2{
+	background-image: url(../img/img4.jpg);
+	width: 400px;
+	height: 300px;
+	background-size: cover;
+	padding-top: 131px;
+}
+.text-5{
+	font-size: 30px;
+	color:#009602;
+	padding-left: 450px;
+	padding-top:264px;
+}
+.text-6{
+font-size: 20px;
+	color:#009602;
+	padding-left: 450px;
+	padding-top: 4px;
+}
+.image3{
+	background-image: url(../img/img5.jpg);
+	width: 400px;
+	height: 400px;
+	background-size: cover;
+	padding-top: 264px;
+}
+.rewievs{
+	font-size: 40px;
+	color:#2a315a;
+	padding-top: 40px;
+	padding-left: 800px;
+}
+.container3{
+	
+	background-color: #00dc09;
+	width: 100%;
+	height: 550px;
+	
+}
+.youser1{
+	font-size: 20px;
+	color:#00ffe7;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.youser2{
+	font-size: 20px;
+	color:#00ffe7;
+	padding-left: 10px;
+	padding-top:20px;
+}
+.youser3{
+	font-size: 20px;
+	color:#00ffe7;
+	padding-left: 10px;
+	padding-top:30px;
+}
+.youser4{
+	font-size: 20px;
+	color:#00ffe7;
+	padding-left: 10px;
+	padding-top:40px;
+}
+.youser5{
+	font-size: 20px;
+	color:#00ffe7;
+	padding-left: 10px;
+	padding-top:50px;
+}
+.container4{
+	background-color: #00310a;
+	width: 100%;
+	height: 650px;
+}
+.contacts{
+	font-size:60px;
+	color: white;
+	padding-left: 800px;
+	padding-top: 35px;
+}
+.name{
+	font-size: 30px;
+	color: white;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.mail{
+	font-size: 30px;
+	color: white;
+	padding-top: 40px;
+	padding-left: 30px;
+}
+.message{
+	font-size: 40px;
+	color: white;
+	padding-top: 60px;
+	padding-left: 30px;
+}
+.send{
+	font-size: 30px;
+	color: white;
+	padding-top: 60px;
+	padding-left: 800px;
+}
+.mw-redirect{
+	font-size: 30px;
+	color: white;
+	padding-top: 30px;
+	padding-left: 1500px;
+}
+.mall{
+	font-size: 30px;
+	color: white;
+	padding-top: 40px;
+	padding-left: 1500px;
+}
+.mw-redirecu{
+	font-size: 30px;
+	color: white;
+	padding-top: 40px;
+	padding-left: 1400px;
+}
